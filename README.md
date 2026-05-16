@@ -1,6 +1,6 @@
 # StorageKit Feedback
 
-The public tracker for **StorageKit** — the Chrome extension for inspecting, editing, and managing local storage, session storage, and cookies.
+The public tracker for **StorageKit**, the Chrome extension for inspecting, editing, and managing local storage, session storage, and cookies.
 
 This is where you can:
 
@@ -8,22 +8,22 @@ This is where you can:
 - Request a feature
 - Ask a question
 
-[Open a new issue →](https://github.com/hassibmoddasser/storagekit-feedback/issues/new/choose)
+[Open a new issue](https://github.com/hassibmoddasser/storagekit-feedback/issues/new/choose)
 
 ## Filing a useful bug report
 
 To help me reproduce and fix things quickly, please include:
 
 1. **What you expected** vs **what actually happened** (screenshots or a short video help a lot)
-2. **Steps to reproduce** — exactly how can I trigger it?
-3. **Browser & version** — e.g. Chrome 132 on macOS Sonoma
-4. **StorageKit version** — found under the `?` menu in the dashboard header
+2. **Steps to reproduce**. What exactly triggers it?
+3. **Browser and version**. For example, Chrome 132 on macOS Sonoma
+4. **StorageKit version**. Found under the `?` menu in the dashboard header
 
 ## A quick note on the source
 
 StorageKit's extension is closed source, so the implementation isn't in this repo. This tracker exists purely to give users a clear, public place to flag issues and shape the roadmap.
 
-The companion website *is* open source — see [storagekit-website](https://github.com/hassibmoddasser/storagekit-website).
+The companion website *is* open source. See [storagekit-website](https://github.com/hassibmoddasser/storagekit-website).
 
 ## Other ways to help
 
